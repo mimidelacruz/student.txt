@@ -1,0 +1,3 @@
+Student name: Mimi
+Student number: 677523
+Student class: 1A
